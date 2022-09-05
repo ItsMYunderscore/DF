@@ -1,0 +1,9 @@
+name: DanceFloorGadget
+version: '${version}'
+main: me.itsmyunderscore.SpigotPlugin
+api-version: 1.19
+authors: [ ItsMY_ ]
+description: Dance floor gadget
+commands:
+  test:
+    description: testing command
